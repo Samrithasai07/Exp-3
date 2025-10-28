@@ -1,5 +1,3 @@
-![UseCaseDiagram1](https://github.com/user-attachments/assets/9a15460e-fb2e-4536-9ca0-579c57b54e80)# Exp - 3 RAILWAY MANAGEMENT SYSTEM
-
 # AIM:
 To draw the UML diagram for Railway Management System
 # SRS (Procedure):
