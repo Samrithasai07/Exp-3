@@ -7,7 +7,7 @@ List of Program:
 1. Usecase diagram
 2. Class Diagram
 3. Activity Diagram
-4. Communication Diagram
+4. Communication Diagram 
 5. Package Diagram
 6. Sequence Diagram
 # DIAGRAMS:
